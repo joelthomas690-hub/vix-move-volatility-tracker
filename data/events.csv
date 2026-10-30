@@ -1,0 +1,18 @@
+# Your own event list. Add a row for any event you want marked on the charts.
+# type is free text - keep it short (e.g. Shock, Geopolitics, Policy, Earnings).
+date,type,label
+2018-02-05,Shock,"Volmageddon - short-vol ETPs blow up"
+2018-12-24,Shock,"Christmas Eve selloff"
+2020-03-09,Shock,"COVID + oil price war crash"
+2020-03-16,Shock,"COVID crash - VIX record close"
+2022-02-24,Geopolitics,"Russia invades Ukraine"
+2022-06-10,Policy,"Hot May CPI (8.6%) - 75bp hike repriced"
+2022-09-13,Policy,"August CPI upside surprise"
+2022-09-28,Shock,"UK gilt crisis - BoE emergency bond buying"
+2023-03-10,Shock,"Silicon Valley Bank fails"
+2023-03-13,Shock,"Post-SVB rates repricing"
+2023-10-09,Geopolitics,"Israel-Hamas war begins (first trading day)"
+2024-08-05,Shock,"Yen carry-trade unwind"
+2024-11-06,Policy,"Day after US election"
+2025-01-27,Shock,"DeepSeek AI selloff"
+2025-04-03,Policy,"Liberation Day tariffs - first trading day"
